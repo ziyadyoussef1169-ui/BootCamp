@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Social_Network\obj\Debug\net8.0\Social_network.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Social_Network\obj\Debug\net8.0\Social_network.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Social_Network\obj\Debug\net8.0\Social_network.AssemblyInfo.cs
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Social_Network\obj\Debug\net8.0\Social_network.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Social_Network\obj\Debug\net8.0\Social_network.sourcelink.json
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Social_Network\bin\Debug\net8.0\Social_network.exe
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Social_Network\bin\Debug\net8.0\Social_network.deps.json
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Social_Network\bin\Debug\net8.0\Social_network.runtimeconfig.json
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Social_Network\bin\Debug\net8.0\Social_network.dll
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Social_Network\bin\Debug\net8.0\Social_network.pdb
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Social_Network\obj\Debug\net8.0\Social_network.dll
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Social_Network\obj\Debug\net8.0\refint\Social_network.dll
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Social_Network\obj\Debug\net8.0\Social_network.pdb
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Social_Network\obj\Debug\net8.0\Social_network.genruntimeconfig.cache
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Social_Network\obj\Debug\net8.0\ref\Social_network.dll

@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Sphere_Challenge\bin\Debug\net8.0\Sphere_challenge.exe
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Sphere_Challenge\bin\Debug\net8.0\Sphere_challenge.deps.json
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Sphere_Challenge\bin\Debug\net8.0\Sphere_challenge.runtimeconfig.json
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Sphere_Challenge\bin\Debug\net8.0\Sphere_challenge.dll
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Sphere_Challenge\bin\Debug\net8.0\Sphere_challenge.pdb
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Sphere_Challenge\obj\Debug\net8.0\Sphere_challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Sphere_Challenge\obj\Debug\net8.0\Sphere_challenge.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Sphere_Challenge\obj\Debug\net8.0\Sphere_challenge.AssemblyInfo.cs
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Sphere_Challenge\obj\Debug\net8.0\Sphere_challenge.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Sphere_Challenge\obj\Debug\net8.0\Sphere_challenge.sourcelink.json
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Sphere_Challenge\obj\Debug\net8.0\Sphere_challenge.dll
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Sphere_Challenge\obj\Debug\net8.0\refint\Sphere_challenge.dll
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Sphere_Challenge\obj\Debug\net8.0\Sphere_challenge.pdb
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Sphere_Challenge\obj\Debug\net8.0\Sphere_challenge.genruntimeconfig.cache
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\Sphere_Challenge\obj\Debug\net8.0\ref\Sphere_challenge.dll

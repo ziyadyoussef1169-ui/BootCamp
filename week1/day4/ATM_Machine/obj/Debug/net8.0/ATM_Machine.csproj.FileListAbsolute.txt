@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\ATM_Machine\bin\Debug\net8.0\ATM_Machine.exe
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\ATM_Machine\bin\Debug\net8.0\ATM_Machine.deps.json
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\ATM_Machine\bin\Debug\net8.0\ATM_Machine.runtimeconfig.json
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\ATM_Machine\bin\Debug\net8.0\ATM_Machine.dll
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\ATM_Machine\bin\Debug\net8.0\ATM_Machine.pdb
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\ATM_Machine\obj\Debug\net8.0\ATM_Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\ATM_Machine\obj\Debug\net8.0\ATM_Machine.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\ATM_Machine\obj\Debug\net8.0\ATM_Machine.AssemblyInfo.cs
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\ATM_Machine\obj\Debug\net8.0\ATM_Machine.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\ATM_Machine\obj\Debug\net8.0\ATM_Machine.sourcelink.json
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\ATM_Machine\obj\Debug\net8.0\ATM_Machine.dll
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\ATM_Machine\obj\Debug\net8.0\refint\ATM_Machine.dll
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\ATM_Machine\obj\Debug\net8.0\ATM_Machine.pdb
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\ATM_Machine\obj\Debug\net8.0\ATM_Machine.genruntimeconfig.cache
+C:\Users\hp\Desktop\Boot-camp Medcoding\Bootcamp\week1\day4\ATM_Machine\obj\Debug\net8.0\ref\ATM_Machine.dll
